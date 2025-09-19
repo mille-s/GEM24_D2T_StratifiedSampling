@@ -1,8 +1,8 @@
 # GEM24_D2T_utils.ipynb
 
-The notebook currently contains 2 parts.
+The notebook currently contains 10 parts.
 
-## 1. D2T data selection
+## 1. D2T data selection (stratified sampling)
 
 This is the code used to select the input/output pairs for the GEM 2024 shared task. It was adapted from the WebNLG'23 code. Thanks to Liam Cripwell, Rudali Huidrom and Michela Lorandi for making their versions of the code available.
 
@@ -27,5 +27,26 @@ It contains two cells to download the CSV and HTML files.
 This is the code used to select the sampled system outputs from the original submission files. It requires a CSV file as created in *D2T data selection* above, and one or more files whose texts are aligned with the inputs used to generate the CSV (one text per line, each line corresponds to one input).
 
 It contains a cell to download the text files.
+
+
+## 4.
+
+
+## 5.
+
+
+## 6.
+
+
+## 7.
+
+
+## 8.
+
+
+## 9.
+
+
+## 10.
 
 
